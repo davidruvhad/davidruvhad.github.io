@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tom Walsh | Portfolio</title>
+    <title> David Hadar | Portfolio</title>
 
     <style>
         * {
@@ -158,17 +158,17 @@
 
     <h2>Contact</h2>
 
-    <p>Email: your.email@example.com</p>
+    <p>Email: davidruvhad@gmail.com</p>
 
     <p>GitHub: github.com/yourusername</p>
 
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>LinkedIn: linkedin.com/in/davidruvhad</p>
 
 </section>
 
 <footer>
 
-    <p>© 2026 Tom Walsh. All Rights Reserved.</p>
+    <p>© 2026 Davey. All Rights Reserved.</p>
 
 </footer>
 
