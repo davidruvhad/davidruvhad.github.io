@@ -118,10 +118,7 @@
     <a href="#projects" class="button">View My Projects</a>
 </header>
 
-<section id="about">
-
-    <h2>About Me</h2>
-<p>Welcome to my alpha version of vipcarcenter.net </p>
+<!-- BIG BUTTON CONTAINER -->
 <div style="
     display: flex; 
     justify-content: center; 
@@ -130,6 +127,8 @@
     background: linear-gradient(135deg, #667eea, #764ba2);
     border-radius: 30px;
     padding: 60px;
+    margin: 40px auto;
+    width: 80%;
     box-shadow: 0 20px 60px rgba(102, 126, 234, 0.3);
 ">
     <button onclick="window.location.href='about.html'" class="big-button" 
@@ -146,55 +145,4 @@
                 transition: all 0.3s ease;
                 text-transform: uppercase;
                 letter-spacing: 4px;
-                white-space: nowrap;
-            "
-            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 35px 90px rgba(0,0,0,0.35)';"
-            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 25px 70px rgba(0,0,0,0.25)';">
-        Go to About
-    </button>
-</div>
-
-</section>
-
-<section id="projects">
-
-    <h2>Projects</h2>
-
-    <div class="projects">
-
-        <div class="card">
-            <h3>Pre-Owned Vehicles</h3>
-            <p>Built predictive models and AI solutions.</p>
-        </div>
-
-        <div class="card">
-            <h3>Auction Spotter</h3>
-            <p>Check out a list of upcoming vehicles available at the auction</p>
-        </div>
-
-        <div class="card">
-            <h3>Bikes</h3>
-            <p>Full-stack applications and automation tools.</p>
-        </div>
-
-
-
-<section id="contact">
-
-    <h2>Contact</h2>
-
-    <p>Email: davidruvhad@gmail.com</p>
-    <p>GitHub: github.com/davidruvhad</p>
-    <p>LinkedIn: linkedin.com/in/davidhadar</p>
-
-
-</section>
-
-<footer>
-
-    <p>© 2026 VIP Car Center. All Rights Reserved.</p>
-
-</footer>
-
-</body>
-</html>
+                white<span class="ml-2" /><span data-testid="markdown-streaming-circle" class="inline-block w-3 h-3 rounded-full bg-neutral-a12 align-middle mb-[0.1rem]" />
