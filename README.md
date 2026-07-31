@@ -110,9 +110,11 @@
 </nav>
 
 <header class="hero">
-    <h1>Hi, I'm Tom Walsh</h1>
+    <h1>Hi, I'm David Hadar</h1>
     <p>Data Analyst • AI Engineer • Software Developer</p>
 
+<p> Attached will include a demo website for my father, Joseph, as I unveil a state of the art website for his business:</p>
+                                                  <p>VIP Car Center</p>
     <a href="#projects" class="button">View My Projects</a>
 </header>
 
