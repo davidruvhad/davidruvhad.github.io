@@ -131,7 +131,7 @@
     width: 80%;
     box-shadow: 0 20px 60px rgba(102, 126, 234, 0.3);
 ">
-    <button onclick="window.location.href='about.html'" class="big-button"
+    <a button type="button" onclick= href='about.html'" class="big-button">
         style="
             background: white;
             color: #667eea;
