@@ -148,9 +148,7 @@
 
     </div>
 
-</section>
 
-</section>
 
 <section id="contact">
 
@@ -159,14 +157,6 @@
     <p>Email: davidruvhad@gmail.com</p>
     <p>GitHub: github.com/davidruvhad</p>
     <p>LinkedIn: linkedin.com/in/davidhadar</p>
-
-
-
-    <button onclick="window.location.href='about.html'" class="big-button">
-        Go to About
-    </button>">
-        Go to About
-    </button>
 
 
 </section>
