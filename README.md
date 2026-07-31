@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Tom Walsh | Portfolio</title>
+    <title>Davey Productions | Portfolio</title>
 
     <style>
         * {
@@ -112,7 +112,7 @@
 </nav>
 
 <header class="hero">
-    <h1>Hi, I'm Tom Walsh</h1>
+    <h1>VIP Car Center</h1>
     <p>Data Analyst • AI Engineer • Software Developer</p>
 
     <a href="#projects" class="button">View My Projects</a>
