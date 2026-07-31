@@ -122,31 +122,6 @@
 
     <h2>About Me</h2>
 <p>Welcome to my alpha version of vipcarcenter.net </p>
-
-</section>
-
-<section id="projects">
-
-    <h2>Projects</h2>
-
-    <div class="projects">
-
-        <div class="card">
-            <h3>Pre-Owned Vehicles</h3>
-            <p>Built predictive models and AI solutions.</p>
-        </div>
-
-        <div class="card">
-            <h3>Auction Spotter</h3>
-            <p>Check out a list of upcoming vehicles available at the auction</p>
-        </div>
-
-        <div class="card">
-            <h3>Bikes</h3>
-            <p>Full-stack applications and automation tools.</p>
-        </div>
-
-
 <div style="
     display: flex; 
     justify-content: center; 
@@ -178,6 +153,31 @@
         Go to About
     </button>
 </div>
+
+</section>
+
+<section id="projects">
+
+    <h2>Projects</h2>
+
+    <div class="projects">
+
+        <div class="card">
+            <h3>Pre-Owned Vehicles</h3>
+            <p>Built predictive models and AI solutions.</p>
+        </div>
+
+        <div class="card">
+            <h3>Auction Spotter</h3>
+            <p>Check out a list of upcoming vehicles available at the auction</p>
+        </div>
+
+        <div class="card">
+            <h3>Bikes</h3>
+            <p>Full-stack applications and automation tools.</p>
+        </div>
+
+
 
 <section id="contact">
 
