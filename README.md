@@ -122,11 +122,9 @@
 
     <h2>About Me</h2>
 
-    <p>
-            Welcome to my alpha verison of vipcarcenter.net
+    <p>Welcome to my alpha verison of vipcarcenter.net
         I bought a domain name on GatorHost 3 years ago for the website but I didnt really spend that much time on it. 
-        This time im comin for all the marbles and Im tryna draft a masterpiece. 
-    </p>
+        This time im comin for all the marbles and Im tryna draft a masterpiece.</p>
 
 </section>
 
@@ -167,7 +165,7 @@
 
 <footer>
 
-    <p>© 2026 Tom Walsh. All Rights Reserved.</p>
+    <p>© 2026 Vip Car Center. All Rights Reserved.</p>
 
 </footer>
 
