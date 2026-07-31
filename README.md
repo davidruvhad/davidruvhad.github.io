@@ -150,6 +150,8 @@
 
 </section>
 
+</section>
+
 <section id="contact">
 
     <h2>Contact</h2>
@@ -158,7 +160,6 @@
     <p>GitHub: github.com/davidruvhad</p>
     <p>LinkedIn: linkedin.com/in/davidhadar</p>
 
- <title>Button Demo</title>
     <style>
         body {
             display: flex;
@@ -201,6 +202,7 @@
         Go to About
     </button>
 </body>
+
 </section>
 
 <footer>
