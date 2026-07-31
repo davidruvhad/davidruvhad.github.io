@@ -150,7 +150,7 @@
         "
         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 20px 50px rgba(0,0,0,0.35)';"
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 15px 40px rgba(0,0,0,0.25)';">
-    Check out our selection!
+    Check out our selection!</a>
 </button>
 </div>
 
