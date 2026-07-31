@@ -159,7 +159,7 @@
 
     <h2>Contact</h2>
 
-    <p>Email: your.email@example.com</p>
+    <p>Email: davidruvhad@gmail.com</p>
     <p>GitHub: github.com/yourusername</p>
     <p>LinkedIn: linkedin.com/in/yourprofile</p>
 
