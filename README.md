@@ -148,7 +148,37 @@
 
     </div>
 
-
+<div style="
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 400px; 
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border-radius: 30px;
+    padding: 60px;
+    box-shadow: 0 20px 60px rgba(102, 126, 234, 0.3);
+">
+    <button onclick="window.location.href='about.html'" class="big-button" 
+            style="
+                background: white; 
+                color: #667eea; 
+                border: none; 
+                padding: 80px 160px; 
+                font-size: 4rem; 
+                font-weight: 800; 
+                border-radius: 40px; 
+                cursor: pointer; 
+                box-shadow: 0 25px 70px rgba(0,0,0,0.25);
+                transition: all 0.3s ease;
+                text-transform: uppercase;
+                letter-spacing: 4px;
+                white-space: nowrap;
+            "
+            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 35px 90px rgba(0,0,0,0.35)';"
+            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 25px 70px rgba(0,0,0,0.25)';">
+        Go to About
+    </button>
+</div>
 
 <section id="contact">
 
