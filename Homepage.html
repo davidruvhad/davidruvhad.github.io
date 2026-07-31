@@ -154,14 +154,40 @@
 
     </div>
 
-<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Home</title>
+    <title>My Page</title>
+    <style>
+        .huge-button {
+            display: inline-block;
+            padding: 40px 80px;
+            font-size: 36px;
+            font-weight: bold;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 15px;
+            text-decoration: none;
+            cursor: pointer;
+            box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+            transition: all 0.2s ease-in-out;
+        }
+
+        .huge-button:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+        }
+
+        .huge-button:active {
+            transform: scale(0.98);
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome!</h1>
-    <a href="about.html">Go to About Page</a>
+
+    <a href="about.html" class="huge-button">Click Me!</a>
+
 </body>
 </html>
 
