@@ -146,7 +146,6 @@
             <p>Full-stack applications and automation tools.</p>
         </div>
 
-    </div>
 
 <div style="
     display: flex; 
