@@ -123,10 +123,9 @@
     <h2>About Me</h2>
 
     <p>
-        Welcome to my portfolio! I enjoy building AI applications,
-        machine learning models, automation tools, and software solutions.
-        I work with Python, SQL, Pandas, Spark, Docker, Git, and modern
-        data engineering technologies.
+            Welcome to my alpha verison of vipcarcenter.net
+        I bought a domain name on GatorHost 3 years ago for the website but I didnt really spend that much time on it. 
+        This time im comin for all the marbles and Im tryna draft a masterpiece. 
     </p>
 
 </section>
