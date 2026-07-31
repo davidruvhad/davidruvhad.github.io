@@ -113,7 +113,7 @@
 
 <header class="hero">
     <h1>VIP Car Center</h1>
-    <p>Reliable Cars • Affordable Prices • Software Developer</p>
+    <p>Reliable Cars • Affordable Prices • Even Groms</p>
 
     <a href="#projects" class="button">View My Projects</a>
 </header>
@@ -121,9 +121,7 @@
 <section id="about">
 
     <h2>About Me</h2>
-<p>Welcome to my alpha verison of vipcarcenter.net
-I bought a domain name on GatorHost 3 years ago for the website but I didnt really spend that much time on it. 
-This time im comin for all the marbles and Im tryna draft a masterpiece.</p>
+<p>Welcome to my alpha version of vipcarcenter.net</p>
 
 </section>
 
