@@ -113,7 +113,7 @@
 
 <header class="hero">
     <h1>VIP Car Center</h1>
-    <p>Data Analyst • AI Engineer • Software Developer</p>
+    <p>Reliable Cars • Affordable Prices • Software Developer</p>
 
     <a href="#projects" class="button">View My Projects</a>
 </header>
@@ -121,10 +121,9 @@
 <section id="about">
 
     <h2>About Me</h2>
-
-    <p>Welcome to my alpha verison of vipcarcenter.net
-        I bought a domain name on GatorHost 3 years ago for the website but I didnt really spend that much time on it. 
-        This time im comin for all the marbles and Im tryna draft a masterpiece.</p>
+<p>Welcome to my alpha verison of vipcarcenter.net
+I bought a domain name on GatorHost 3 years ago for the website but I didnt really spend that much time on it. 
+This time im comin for all the marbles and Im tryna draft a masterpiece.</p>
 
 </section>
 
@@ -135,12 +134,12 @@
     <div class="projects">
 
         <div class="card">
-            <h3>Machine Learning</h3>
+            <h3>Pre-Owned Vehicles</h3>
             <p>Built predictive models and AI solutions.</p>
         </div>
 
         <div class="card">
-            <h3>Data Analytics</h3>
+            <h3></h3>
             <p>SQL, Python, dashboards, and ETL pipelines.</p>
         </div>
 
@@ -158,14 +157,14 @@
     <h2>Contact</h2>
 
     <p>Email: davidruvhad@gmail.com</p>
-    <p>GitHub: github.com/yourusername</p>
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>GitHub: github.com/davidruvhad</p>
+    <p>LinkedIn: linkedin.com/in/davidhadar</p>
 
 </section>
 
 <footer>
 
-    <p>© 2026 Vip Car Center. All Rights Reserved.</p>
+    <p>© 2026 VIP Car Center. All Rights Reserved.</p>
 
 </footer>
 
