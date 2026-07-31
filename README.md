@@ -137,12 +137,12 @@
         </div>
 
         <div class="card">
-            <h3></h3>
-            <p>SQL, Python, dashboards, and ETL pipelines.</p>
+            <h3>Auction Spotter</h3>
+            <p>Check out a list of upcoming vehicles available at the auction</p>
         </div>
 
         <div class="card">
-            <h3>Software Development</h3>
+            <h3>Bikes</h3>
             <p>Full-stack applications and automation tools.</p>
         </div>
 
@@ -158,6 +158,49 @@
     <p>GitHub: github.com/davidruvhad</p>
     <p>LinkedIn: linkedin.com/in/davidhadar</p>
 
+ <title>Button Demo</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        
+        .big-button {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 40px 80px;
+            font-size: 2.5rem;
+            font-weight: bold;
+            border-radius: 20px;
+            cursor: pointer;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .big-button:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6);
+            background: linear-gradient(135deg, #5a6fd6, #6a4190);
+        }
+        
+        .big-button:active {
+            transform: translateY(0);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+    </style>
+<body>
+    <button onclick="window.location.href='about.html'" class="big-button">
+        Go to About
+    </button>
+</body>
 </section>
 
 <footer>
