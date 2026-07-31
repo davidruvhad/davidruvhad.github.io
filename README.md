@@ -121,7 +121,7 @@
 <section id="about">
 
     <h2>About Me</h2>
-<p>Welcome to my alpha version of vipcarcenter.net</p>
+<p>Welcome to my alpha version of vipcarcenter.net </p>
 
 </section>
 
